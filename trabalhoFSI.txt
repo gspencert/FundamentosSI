@@ -7,4 +7,37 @@
 
 # Exemplos:
 
-Sistemas de Processamento de Transções, Sistemas Gerenciais, Sistemas de Apoio de Decisão, Sistemas de Análise de Risco e Sistemas de Automação 
+Sistemas de Processamento de Transções, Sistemas Gerenciais, Sistemas de Apoio de Decisão, Sistemas de Análise de Risco e Sistemas de Automação.
+
+# Integração de Sistemas:
+
+Integração via API = São usadas para que diferentes sistemas se comuniquem por meio de regras e protocolos definidos.
+Flexível e escalável, ideal para uso em Nuvem (facilidade na troca de dados, armazenamento e comunicação)
+
+Aqui estão exemplos de cada tipo de sistema que você mencionou:
+
+Sistemas de Processamento de Transações (SPT):
+
+Exemplo: Sistema de Caixa Registradora de um supermercado.
+Descrição: O SPT registra as transações de venda realizadas no supermercado, controlando a entrada de produtos, valores pagos pelos clientes, emissão de recibos, e atualização do estoque.
+
+Sistemas Gerenciais (SG):
+
+Exemplo: Sistema de Gestão Empresarial (ERP), como o SAP.
+Descrição: O ERP é usado para gerenciar e integrar as funções principais de um negócio, como finanças, recursos humanos, produção e vendas. Ele fornece informações em tempo real para os gestores, ajudando na tomada de decisões.
+
+Sistemas de Apoio à Decisão (SAD):
+
+Exemplo: Sistema de Business Intelligence (BI), como o Power BI ou Tableau.
+Descrição: Um sistema de BI coleta e analisa dados de várias fontes para ajudar os gestores a tomar decisões mais informadas. Por exemplo, um gerente de marketing pode usar um sistema de BI para identificar padrões de vendas e melhorar estratégias de marketing.
+
+Sistemas de Análise de Risco:
+
+Exemplo: Sistemas de Análise de Crédito em bancos.
+    Descrição: Esses sistemas avaliam o risco de inadimplência de clientes ao solicitar crédito, analisando dados como histórico de crédito, renda, e outros fatores financeiros, para determinar a probabilidade de um cliente pagar o empréstimo.
+    
+Sistemas de Automação:
+
+Exemplo: Sistemas de Automação Industrial, como os usados em fábricas de automóveis.
+Descrição: São sistemas que controlam e automatizam processos de produção, como a robótica usada para a montagem de veículos. Eles ajudam a aumentar a eficiência, reduzir erros humanos e melhorar a qualidade do produto final.
+Esses exemplos ilustram como cada tipo de sistema pode ser aplicado em diferentes contextos e áreas de negócios.
