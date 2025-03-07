@@ -1,0 +1,10 @@
+# O que são?
+   Sistemas de Informação são meios de organização de recursos (pessoas, tecnologia, dados e processos) que armazenam e distribuem as informações para a tomada de decisões. 
+   Compostos por hardware, dados, software, redes e usuários. 
+
+# Para que servem?
+   Armazenamento de dados, tomadas de decisões, eficiência profissional e comunicação.
+
+# Exemplos:
+
+Sistemas de Processamento de Transções, Sistemas Gerenciais, Sistemas de Apoio de Decisão, Sistemas de Análise de Risco e Sistemas de Automação 
