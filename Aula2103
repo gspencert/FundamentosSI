@@ -1,7 +1,7 @@
 Computação Ubíqua (Ubiquitous Computing)
 O termo foi criado por Mark Weiser nos anos 1990 e se refere à ideia de que a computação deve estar em todos os lugares, funcionando de maneira discreta e integrada ao ambiente. Um sistema ubíquo permite que os usuários interajam com a tecnologia sem perceber diretamente sua presença.
 
-Exemplos:
+-Exemplos:
 
 IoT (Internet das Coisas): Assistentes virtuais (Alexa e Google Assistant).
 Casas inteligentes: Luzes e eletrodomésticos que ligam/acendem automaticamente.
@@ -10,13 +10,13 @@ Pagamentos por aproximação (NFC): Cartões e celulares que realizam pagamentos
 Computação Pervasiva (Pervasive Computing)
 A computação pervasiva é um conceito semelhante, mas enfatiza que a computação deve estar disponível em qualquer lugar e a qualquer momento, garantindo acesso contínuo a informações e serviços.
 
-Exemplos:
+-Exemplos:
 
 Dispositivos móveis: Celulares e Relogios Inteligentes(SmartWatch) que oferecem serviços inteligentes.
 Wearables: Sensores e relógios inteligentes que monitoram saúde e atividades físicas.
 Ambientes de trabalho conectados: Empresas que usam sensores para monitoramento de produtividade e segurança.
 
-Resumindo:
+-Resumindo:
 
 Computação ubíqua → Tecnologia integrada ao ambiente, quase imperceptível.
 Computação pervasiva → Tecnologia disponível a qualquer momento e lugar.
