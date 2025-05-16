@@ -1,0 +1,42 @@
+- Segurança Digital
+
+É tudo que envolve proteger dados, sistemas e informações no ambiente digital. Serve pra evitar invasões, vazamentos e golpes. Toda empresa que lida com dados precisa cuidar disso.
+
+- Criptografia
+
+É um jeito de transformar uma informação em um código que só pode ser lido por quem tem a “chave certa”.
+Ajuda a manter os dados seguros, mesmo que alguém intercepte.
+Existem dois tipos principais:
+
+- Chave simétrica
+
+Usa a mesma chave pra criptografar e descriptografar a informação.
+É rápido, mas menos seguro se a chave vazar.
+
+- Chave assimétrica
+
+Usa duas chaves: uma pública (pra criptografar) e uma privada (pra descriptografar).
+É mais seguro, usado em e-mails e sites com HTTPS, por exemplo.
+
+- Algoritmos de Criptografia
+
+São os métodos usados pra fazer a criptografia funcionar. Alguns exemplos:
+
+AES (usa chave simétrica, bem rápido)
+
+RSA (usa chave assimétrica, muito usado em sites seguros)
+
+SHA (usado pra gerar “impressões digitais” dos dados)
+
+- Certificado Digital
+
+É tipo um RG digital. Ele garante que uma pessoa ou empresa é quem diz ser na internet.
+Usado pra assinar documentos online, acessar sistemas do governo, enviar nota fiscal etc.
+Funciona com criptografia assimétrica e é emitido por uma autoridade certificadora (tipo a Serasa, Valid, etc).
+
+- LGPD (Lei Geral de Proteção de Dados)
+
+É a lei brasileira que protege os dados pessoais.
+Toda empresa que coleta, armazena ou usa dados de alguém precisa seguir essa lei.
+Ela define o que pode ou não ser feito com os dados, e obriga a empresa a avisar o usuário e pedir consentimento.
+Se a empresa vacilar, pode tomar multa.
