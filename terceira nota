@@ -15,8 +15,8 @@ Usa a mesma chave pra criptografar e descriptografar a informação.
 
 - Chave assimétrica
 
-Usa duas chaves: uma pública (pra criptografar) e uma privada (pra descriptografar).
-É mais seguro, usado em e-mails e sites com HTTPS, por exemplo.
+Usa duas chaves: pública (pra criptografar) e privada(pra descriptografar).
+É mais seguro, é usado por exemplo em e-mails e sites com HTTPS
 
 - Algoritmos de Criptografia
 
@@ -32,11 +32,10 @@ SHA (usado pra gerar “impressões digitais” dos dados)
 
 É tipo um RG digital. Ele garante que uma pessoa ou empresa é quem diz ser na internet.
 Usado pra assinar documentos online, acessar sistemas do governo, enviar nota fiscal etc.
-Funciona com criptografia assimétrica e é emitido por uma autoridade certificadora (tipo a Serasa, Valid, etc).
+Funciona com criptografia assimétrica e é emitido por uma autoridade certificadora(tipo o Cerasa).
 
 - LGPD (Lei Geral de Proteção de Dados)
 
 É a lei brasileira que protege os dados pessoais.
-Toda empresa que coleta, armazena ou usa dados de alguém precisa seguir essa lei.
-Ela define o que pode ou não ser feito com os dados, e obriga a empresa a avisar o usuário e pedir consentimento.
-Se a empresa vacilar, pode tomar multa.
+Toda empresa que coleta, armazena ou usa dados de alguém tem que seguir essa lei.
+Ela define o que pode e o que não pode ser feito com os dados, e obriga a empresa a avisar o usuário e pedir consentimento. No caso de empresa tenha algum tipo de vazamento ou algo do tipo, tem que pagar multa. 
