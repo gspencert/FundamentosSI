@@ -3,7 +3,7 @@
 Sistema usado pelas empresas pra cuidar do relacionamento com os clientes. Ele guarda as informações dos clientes, tipo histórico de compra, preferências, contatos anteriores etc.
 Serve pra melhorar o atendimento, fazer marketing mais certeiro e vender mais.
 Basicamente, o CRM ajuda a empresa a entender melhor o cliente e se comunicar com ele de forma mais eficiente.
-Exemplo de CRM: Salesforce, HubSpot, RD Station.
+Exemplo de CRM: Salesforce e RD Station.
 
 
 - ERP (Enterprise Resource Planning):
@@ -11,4 +11,4 @@ Exemplo de CRM: Salesforce, HubSpot, RD Station.
 É um sistema que integra tudo que rola dentro da empresa: estoque, vendas, financeiro, RH, produção e por aí vai.
 Em vez de ter vários sistemas separados, o ERP junta tudo em um só lugar, o que deixa o trabalho mais rápido e organizado.
 Ajuda a tomar decisões melhores porque mostra os dados da empresa em tempo real.
-Exemplo de ERP: SAP, TOTVS, Bling, Omie.
+Exemplo de ERP: SAP e Omie.
