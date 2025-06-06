@@ -1,0 +1,40 @@
+Sistemas Corporativos  
+    - o que são?  
+        - Conjuntos de softwares que integram processos empresariais  
+        - Automatizam e centralizam informações de diferentes setores  
+
+    - para que servem?  
+        - Aumentar a eficiência operacional  
+        - Melhorar a tomada de decisão com dados integrados  
+        - Reduzir retrabalho e erros manuais  
+
+    - exemplos  
+        - ERP (Enterprise Resource Planning)  
+        - CRM (Customer Relationship Management)  
+        - SCM (Supply Chain Management)  
+        - BI (Business Intelligence)  
+
+Licenças de uso de software  
+    - o que são?  
+        - Acordos legais que definem como o software pode ser usado, modificado e distribuído  
+
+    - para que servem?  
+        - Proteger os direitos do criador  
+        - Definir permissões e restrições de uso do software  
+
+    - tipos  
+        - Copyright  
+            - Direitos autorais reservados  
+            - Usuário não pode copiar, modificar ou distribuir sem permissão  
+
+        - Copyleft  
+            - Permite uso, modificação e redistribuição  
+            - Obriga que versões modificadas mantenham a mesma licença  
+
+            - GPL (General Public License)  
+                - Código aberto  
+                - Modificações devem ser abertas e com a mesma licença  
+
+            - MIT  
+                - Mais permissiva que a GPL  
+                - Permite uso comercial, modificação e distribuição sem obrigação de manter a licença
